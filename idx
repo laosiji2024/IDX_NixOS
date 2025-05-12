@@ -17,7 +17,6 @@
   # Sets environment variables in the workspace
   env = {
     nix = "y";
-    ARGO_TOKEN = "eyJhIjoiZGQyNzBjM2IyNjc1YjZhZDc5MDQzOWVkY2Y4OWVhYjciLCJ0IjoiOTU2YWZjMWQtODU0Ni00YTc5LThmN2ItNGQzOTNkMTI5YjM4IiwicyI6IlpXRmxNREppTldVdE16RTJOaTAwWlRZeUxUazNNRGN0T0dObE5qY3haRFUwWldFeSJ9";
   };
 
   services = {
